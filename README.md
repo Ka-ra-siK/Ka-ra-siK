@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Engineering</h3>
 
+<!--
 <h2>&#128104;&#8205;&#128187;Languages</h2>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ka-ra-siK&theme=github_dark)
+-->

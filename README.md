@@ -12,7 +12,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ka-ra-siK&theme=github_dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ka-ra-siK&theme=solarized_dark)
 
 <h2>📌 Contacts</h2>
 <p>✉ Email: polkavod@gmail.com</p>

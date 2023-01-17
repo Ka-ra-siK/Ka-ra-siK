@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-<li>For today, I am studying backend development in Java (Spring) 📘</li>
-<li>I am open for an internship/job as a junior backend developer 👨‍💻</li>
+<li>I am a graduate of Novosibirsk State Technical University⚡</li>
+<li>Today I am studying Android mobile development in Java/Kotlin🔭</li>
+<li>I am open for an internship/job as a junior Android-developer 👨‍💻</li>
 </ul>
 
 <h2>&#128104;&#8205;&#128187;Languages</h2>
@@ -35,4 +36,4 @@ Here are some ideas to get you started:
 
 <h2>📌 Contacts</h2>
 <p>✉ Email: polkavod@gmail.com</p>
-<p>📱 Telegram: <a href="https://telegram.me/vvtrnv">@Ka_ra_siK</a></p>
+<p>📱 Telegram: <a href="https://telegram.me/Ka_ra_siK">@Ka_ra_siK</a></p>

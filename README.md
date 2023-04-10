@@ -4,8 +4,7 @@
 
 <ul>
 <li>I am a graduate of Novosibirsk State Technical University⚡</li>
-<li>Today I am studying Android mobile development in Java/Kotlin🔭</li>
-<li>I am open for an internship/job as a junior Android-developer 👨‍💻</li>
+<li>I am working as a junior Android-developer (Kotlin) 👨‍💻</li>
 </ul>
 
 <h2>&#128104;&#8205;&#128187;Statistics</h2>
